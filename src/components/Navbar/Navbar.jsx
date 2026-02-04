@@ -24,7 +24,10 @@ const Navbar = () => {
             link: "#coffee"
         }
     ]
+    
 
+
+    
     return (
         <>
             <AppBar position="sticky" color="primary">
